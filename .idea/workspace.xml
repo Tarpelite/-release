@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a77ceaa-e923-459e-b44a-01276c9b2717" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testapp/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp/upload/templates/Record.html" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/upload/templates/Record.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp/upload/templates/Teacher.html" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/upload/templates/Teacher.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp/upload/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/upload/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp/upload/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/upload/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp/upload/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/upload/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +18,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testapp/upload/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="187" column="58" lean-forward="true" selection-start-line="187" selection-start-column="58" selection-end-line="187" selection-end-column="58" />
+            <state relative-caret-position="3114">
+              <caret line="187" column="58" selection-start-line="187" selection-start-column="58" selection-end-line="187" selection-end-column="58" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -35,7 +30,7 @@
       <file leaf-file-name="Teacher.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testapp/upload/templates/Teacher.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
+            <state relative-caret-position="162">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
@@ -71,11 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Record.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Record.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testapp/upload/templates/Record.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="450">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -83,7 +87,7 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testapp/upload/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="774">
               <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
             </state>
           </provider>
@@ -92,7 +96,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testapp/app1/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
+            <state relative-caret-position="792">
               <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
             </state>
           </provider>
@@ -103,15 +107,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="648">
               <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testapp/upload/templates/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -169,6 +164,7 @@
         <option value="$PROJECT_DIR$/testapp/upload/urls.py" />
         <option value="$PROJECT_DIR$/testapp/upload/views.py" />
         <option value="$PROJECT_DIR$/testapp/upload/templates/Record.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -195,38 +191,6 @@
               <item name="Grand-HTML5" type="462c0819:PsiDirectoryNode" />
               <item name="testapp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Grand-HTML5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grand-HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="testapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Grand-HTML5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grand-HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="testapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app1" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Grand-HTML5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grand-HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="testapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Grand-HTML5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grand-HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="testapp" type="462c0819:PsiDirectoryNode" />
-              <item name="upload" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Grand-HTML5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grand-HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="testapp" type="462c0819:PsiDirectoryNode" />
-              <item name="upload" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -236,20 +200,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$USER_HOME$/test69/Grand-HTML5/upload/views.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/test69" />
     <property name="two.files.diff.last.used.file" value="$USER_HOME$/test69/Grand-HTML5/upload/views.py" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testapp/app1/templates" />
+      <recent name="$PROJECT_DIR$/testapp/templates" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/testapp/app1/static/css" />
       <recent name="$PROJECT_DIR$/testapp/app1/static/js" />
       <recent name="$PROJECT_DIR$/testapp/app1/static" />
       <recent name="$PROJECT_DIR$/testapp/app1/static/images" />
-      <recent name="$PROJECT_DIR$/testapp/upload/static" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/testapp/app1/templates" />
-      <recent name="$PROJECT_DIR$/testapp/templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,14 +245,14 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13591704" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13591704" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20196506" side_tool="true" visible="true" weight="0.2583784" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20251092" side_tool="true" visible="true" weight="0.2583784" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49891067" weight="0.3295063" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.7980349" visible="true" weight="0.2583784" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7974891" visible="true" weight="0.2583784" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -309,13 +273,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testapp/upload/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testapp/upload/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
@@ -593,14 +550,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testapp/upload/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="774">
           <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testapp/app1/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="792">
           <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
         </state>
       </provider>
@@ -614,8 +571,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testapp/upload/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="187" column="58" lean-forward="true" selection-start-line="187" selection-start-column="58" selection-end-line="187" selection-end-column="58" />
+        <state relative-caret-position="3114">
+          <caret line="187" column="58" selection-start-line="187" selection-start-column="58" selection-end-line="187" selection-end-column="58" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -624,15 +581,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testapp/upload/templates/Teacher.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="162">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testapp/upload/templates/Record.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="450">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
